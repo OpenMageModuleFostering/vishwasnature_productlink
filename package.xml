@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package>
+    <name>Vishwasnature_Productlink</name>
+    <version>0.1.1</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">Open Software License</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>To Edit Product when add product to category in 'Category Products' tab.</summary>
+    <description>To Edit Product when add product to category in 'Category Products' tab. &#xD;
+Features:-&#xD;
+It is more useful when database is heavy with lot of products.&#xD;
+It is useful to easily navigate from 'Category' to 'Products'.&#xD;
+Added products in category can be viewed only on one click.&#xD;
+Catalog &gt; Manage Categories &gt; Category Products tab &#xD;
+Here you can find Edit Action to edit products&#xD;
+</description>
+    <notes>To Edit Product when add product to category in 'Category Products' tab.</notes>
+    <authors><author><name>Vishwas Nature</name><user>vishwasnature30</user><email>vishwasnature30@gmail.com</email></author></authors>
+    <date>2014-01-23</date>
+    <time>04:36:09</time>
+    <contents><target name="magecommunity"><dir name="Vishwasnature"><dir name="Productlink"><dir name="Block"><dir name="Adminhtml"><dir name="Catalog"><dir name="Category"><dir name="Tab"><file name="Product.php" hash="3f181a9090f8b927b68f48611a238a9a"/></dir></dir></dir></dir></dir><dir name="etc"><file name="config.xml" hash="45fd8330281d6d8efb883106b5691509"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Vishwasnature_Productlink.xml" hash="da65f8342910787888ae2de87fd679c7"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>4.0.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
