@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Vishwasnature_Productlink",
+    "name": "openmage-module-fostering\/vishwasnature_productlink",
     "type": "magento-module",
-    "license": "Open-Software-License",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "To Edit Product when add product to category in 'Category Products' tab.",
     "authors": [
