@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Vishwasnature_Productlink",
+    "name": "OpenMageModuleFostering\/Vishwasnature_Productlink",
     "type": "magento-module",
     "license": "Open-Software-License",
     "homepage": "",
     "description": "To Edit Product when add product to category in 'Category Products' tab.",
     "authors": [
-    {
-        "name": "Vishwas Nature",
-        "email": "vishwasnature30@gmail.com"
-    }
-],
+        {
+            "name": "Vishwas Nature",
+            "email": "vishwasnature30@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
